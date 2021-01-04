@@ -5,6 +5,7 @@
 - Team Project 
   - 게임 역기획서 작성
   - LINK: [쿠키런 역기획서](https://github.com/seungri0826/2018_1_2_CED)
+  - 원본 LINK: [쿠키런 역기획서(원본)](https://github.com/moomin-04/YOLO-2018920056)
 
 ### [71002] C언어및실습 
 - Term Project
