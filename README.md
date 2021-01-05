@@ -10,4 +10,4 @@
 ### [71002] C언어및실습 
 - Term Project
   - 자유 주제 프로그램 작성
-  - LINK: [일정 관리 프로그램]()
+  - LINK: [일정 관리 프로그램](https://github.com/seungri0826/UOS_CS_2018_2/tree/main/C_Programming_Language)
